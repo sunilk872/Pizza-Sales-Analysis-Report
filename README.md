@@ -1,6 +1,6 @@
 # Pizza-Sales-Analysis-Report
 
-View the Tableau Dashboard : https://public.tableau.com/views/PizzaSales_17495424854170/Home?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+View the Tableau Dashboard : https://public.tableau.com/app/profile/sunil.karrenolla/viz/PizzaSales_17495424854170/Home?publish=yes
 
 
 This project analyzes pizza sales data using MySQL and visualizes key business metrics with Tableau. It covers performance metrics like total revenue, top-selling pizzas, peak sales hours, and customer ordering patterns. The insights help optimize inventory, pricing, and promotional strategies for a pizza business. Ideal for learning SQL joins, aggregation, and building interactive dashboards.
